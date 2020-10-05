@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T10:25:37.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="TD7f83bH1QI0wwM-tml9" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T10:30:06.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="I_O1QI9D7BLW6Xxsmxqa" version="13.1.1" type="github">
   <diagram id="Tanwir6Fyt61A3-k0Lcl" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -111,10 +111,10 @@
           <mxGeometry x="840" y="450" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-11" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="555" width="30" height="60" as="geometry" />
+          <mxGeometry x="930" y="580" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Categorize the content&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Events mapping&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Courses mapping&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Display control&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="545" width="170" height="80" as="geometry" />
+          <mxGeometry x="985" y="580" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-17" value="Home Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="225" width="95" height="30" as="geometry" />
@@ -185,6 +185,39 @@
             <mxPoint x="630" y="380" as="sourcePoint" />
             <mxPoint x="680" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="720" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-38" value="Prospect CRM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="700" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-40" value="Lead Creation API" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="735" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="840" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-42" value="Subscription Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="820" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-43" value="Subscription Registration API" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="855" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-44" value="Unsubscribe Registration API" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1010" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-46" value="Loyalty Services Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="990" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-47" value="Coupon" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1025" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-48" value="Unsubscribe Registration API" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1080" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
