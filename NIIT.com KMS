@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T10:30:06.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="I_O1QI9D7BLW6Xxsmxqa" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T10:31:27.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="pd6medbpBXpKy52w8KEQ" version="13.1.1" type="github">
   <diagram id="Tanwir6Fyt61A3-k0Lcl" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -213,10 +213,10 @@
         <mxCell id="ZlFYfMascbhqRCFvfNwL-46" value="Loyalty Services Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="839" y="990" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZlFYfMascbhqRCFvfNwL-47" value="Coupon" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-47" value="Coupons&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1025" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlFYfMascbhqRCFvfNwL-48" value="Unsubscribe Registration API" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-48" value="Loyalty Points" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="1080" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
