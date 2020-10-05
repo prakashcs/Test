@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T10:09:32.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="dPI5MgGSmZLYC-390IVb" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T10:15:55.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="F2NCnTcJAqmVKX2lF154" version="13.1.1" type="github">
   <diagram id="Tanwir6Fyt61A3-k0Lcl" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,10 +75,10 @@
           <mxGeometry x="160" y="233.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P7mY5AkuOjDJMjzMNkZJ-28" value="Content Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="100" width="60" height="50" as="geometry" />
+          <mxGeometry x="385" y="108" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P7mY5AkuOjDJMjzMNkZJ-29" value="Content Page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="100" width="60" height="50" as="geometry" />
+        <mxCell id="P7mY5AkuOjDJMjzMNkZJ-29" value="SEO - URL and Content" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="108" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P7mY5AkuOjDJMjzMNkZJ-35" value="" style="endArrow=classic;html=1;exitX=1.018;exitY=0.623;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="P7mY5AkuOjDJMjzMNkZJ-5" target="P7mY5AkuOjDJMjzMNkZJ-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -117,22 +117,40 @@
           <mxGeometry x="970" y="545" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-17" value="Home Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="282" width="95" height="30" as="geometry" />
+          <mxGeometry x="300" y="225" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-18" value="Article Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="330.5" width="95" height="33" as="geometry" />
+          <mxGeometry x="300" y="270.5" width="95" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-19" value="Listing Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="378.5" width="95" height="33" as="geometry" />
+          <mxGeometry x="300" y="318.5" width="95" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-20" value="Author Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="430" width="95" height="33" as="geometry" />
+          <mxGeometry x="300" y="368" width="95" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-22" value="User Tracking" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="498" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-23" value="Sign-Up/ Sign-In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="240" width="95" height="30" as="geometry" />
+          <mxGeometry x="300" y="420" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-25" value="Related Courses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="110" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-26" value="Related Articles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431.5" y="318" width="108.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-27" value="Recommendations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="368" width="110" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-29" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.001;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZlFYfMascbhqRCFvfNwL-17" target="P7mY5AkuOjDJMjzMNkZJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="320" as="sourcePoint" />
+            <mxPoint x="680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-30" value="Home page URl and core structure will come &lt;br&gt;from NIIT.com and the APIs will be called &lt;br&gt;from KMS to pull the content and load" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="199" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
