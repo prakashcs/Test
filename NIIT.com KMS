@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T09:48:23.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="bYPgxq8EvtUoOhaQBW_V" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T09:52:50.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="q-YS2jcqN6OfGzxbcQZq" version="13.1.1" type="github">
   <diagram id="Tanwir6Fyt61A3-k0Lcl" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlFYfMascbhqRCFvfNwL-6" value="Knowledge content push &lt;br&gt;to KMS through API&lt;br&gt;&lt;br&gt;Subsequently, KMS will crawl &lt;br&gt;the content and store tags/ keywords" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P7mY5AkuOjDJMjzMNkZJ-7">
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-6" value="1. Knowledge content push &lt;br&gt;to KMS through API&lt;br&gt;&lt;br&gt;2. Subsequently, KMS will crawl &lt;br&gt;the content and store tags/ keywords" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P7mY5AkuOjDJMjzMNkZJ-7">
           <mxGeometry x="0.0045" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -49,14 +49,14 @@
           <mxGeometry x="840" y="245.5" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="P7mY5AkuOjDJMjzMNkZJ-9" value="Elastic &lt;br&gt;Search" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="101.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="1040" y="83.5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P7mY5AkuOjDJMjzMNkZJ-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="P7mY5AkuOjDJMjzMNkZJ-4" target="P7mY5AkuOjDJMjzMNkZJ-9" edge="1">
+        <mxCell id="P7mY5AkuOjDJMjzMNkZJ-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="P7mY5AkuOjDJMjzMNkZJ-4" target="P7mY5AkuOjDJMjzMNkZJ-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="264" as="sourcePoint" />
             <mxPoint x="780" y="214" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="134" />
+              <mxPoint x="1020" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,7 +85,7 @@
             <mxPoint x="710" y="324" as="sourcePoint" />
             <mxPoint x="760" y="274" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1070" y="187" />
+              <mxPoint x="1070" y="168" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -109,6 +109,12 @@
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-10" value="Events" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="450" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-11" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-12" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Categorize the content&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Events mapping&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Courses mapping&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Display control&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="545" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
