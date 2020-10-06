@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T04:47:47.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="V1n5lEHR-U8A-Qd4tu0-" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T04:50:45.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="8frVl0uaC2h_eeELDLaH" version="13.1.1" type="github">
   <diagram id="Tanwir6Fyt61A3-k0Lcl" name="Page-1">
     <mxGraphModel dx="1242" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -245,6 +245,9 @@
         </mxCell>
         <mxCell id="ZlFYfMascbhqRCFvfNwL-53" value="Events" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-56" value="Subscription Service Fulfillment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="989" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
