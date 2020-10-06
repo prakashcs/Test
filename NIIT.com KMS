@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T05:08:15.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="k-jPp0mL3hUh7LHlKhB9" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T05:11:22.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="J-T4rZz2v-ER2D5F1JkN" version="13.1.1" type="github">
   <diagram id="Tanwir6Fyt61A3-k0Lcl" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,7 +279,7 @@
             <mxPoint x="640" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlFYfMascbhqRCFvfNwL-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;NIIT.com - Knowledge Management System (KMS) - Interaction&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;NIIT.com - Knowledge Management System (KMS) - Integration&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="10" width="545" height="30" as="geometry" />
         </mxCell>
       </root>
