@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T05:11:22.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="J-T4rZz2v-ER2D5F1JkN" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T09:20:14.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3BHCopM8Tf0RsGYBCy9b" version="13.1.1" type="github">
   <diagram id="Tanwir6Fyt61A3-k0Lcl" name="Page-1">
-    <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlFYfMascbhqRCFvfNwL-6" value="1. Knowledge content push &lt;br&gt;to KMS through API&lt;br&gt;&lt;br&gt;2. Subsequently, KMS will crawl &lt;br&gt;the content and store tags/ keywords" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P7mY5AkuOjDJMjzMNkZJ-7">
+        <mxCell id="ZlFYfMascbhqRCFvfNwL-6" value="1. Knowledge content&amp;nbsp; metadata push &lt;br&gt;to KMS through API&lt;br&gt;&lt;br&gt;2. Subsequently, KMS will crawl &lt;br&gt;the content and store tags/ keywords" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P7mY5AkuOjDJMjzMNkZJ-7">
           <mxGeometry x="0.0045" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
